@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SBrf</string>
+    <string name="zero_point_zero">0.00</string>
+    <string name="convert">Перевести</string>
+    <string name="zero">0</string>
+    <string name="not_loaded">Не загружено</string>
+    <string name="enter_quantity">Введите количество</string>
+    <string name="sum">Сумма</string>
+</resources>
