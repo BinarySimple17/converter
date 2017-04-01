@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SBrf.iml" filepath="$PROJECT_DIR$/SBrf.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sber.iml" filepath="$PROJECT_DIR$/sber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/converter.iml" filepath="$PROJECT_DIR$/converter.iml" />
     </modules>
   </component>
 </project>
